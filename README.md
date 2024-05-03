@@ -42,6 +42,10 @@ Covers Data Structures in Dart.
 
 Covers the major features of the Flutter framework.
 
+[Master Flutter Adaptive](https://github.com/fredgrott/master_flutter_adaptive)
+
+Covers how to implement the adaptive scaffold and canonical layout patterns for all device form factors including foldables.
+
 [Master Flutter Testing]()
 
 My opinionated way to do flutter testing, covering my own flutter testing stack of plugins and testing strategies.
