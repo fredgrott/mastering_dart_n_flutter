@@ -46,15 +46,15 @@ Covers the major features of the Flutter framework.
 
 Covers how to implement the adaptive scaffold and canonical layout patterns for all device form factors including foldables.
 
-[Master Flutter Testing]()
+[Master Flutter Testing](https://github.com/fredgrott/master_flutter_testing)
 
 My opinionated way to do flutter testing, covering my own flutter testing stack of plugins and testing strategies.
 
-[Master Flutter State Management]()
+[Master Flutter State Management](https://github.com/fredgrott/master_flutter_state)
 
 Flutter state management is switch from MVC to MVVM to simplify data binding, then wire up observers to Dart streaming. I cover some helpful plugins that automate the data binding and the observer auto-wiring.
 
-[Master Flutter Themes]()
+[Master Flutter Themes](https://github.com/fredgrott/master_flutter_themes)
 
 There are some 27-plus component themes in flutter. I cover a more power and easier way to auto-write those component themes based on configuring color scheme in more power manner.
 
@@ -125,7 +125,39 @@ And my socials are:
 [![Threads](./media/threads.png )](https://www.threads.net/@fredgrott)
 [![YouTube](./media/youtube.png )](https://www.youtube.com/channel/UCRQadYlHQ8DKRQ_WwUrfZ_w)
 
+## Articles
 
+AI has fed Reddit, Stackoverflow, Google Search, Bing Search, etc with not correct answers
+in solving the problems you need to solve when developing Flutter apps. And to compicate 
+things there are parts of the material design spec not implemented in the Flutter SDK and 
+the Flutter GDE's are shying away from creating detailed articles on how to solve those
+things including how to implement an adaptive and responsive scaffold that supports
+canonical layouts.
+
+Some Examples of Better Answers
+
+Free
+
+[Flutter Localization Without Writing It Twice](https://fredgrott.substack.com/p/flutter-localization-without-writing)
+
+[How To Implement Flutter Staggered Animations](https://fredgrott.substack.com/p/how-to-implement-flutter-staggered)
+
+[New In Flutter 3 Sliver Axis Groups](https://fredgrott.substack.com/p/new-in-flutter-3-sliver-axis-groups)
+
+[Fixing Flutter Surface Color Roles](https://fredgrott.substack.com/p/fixing-flutter-surface-color-roles)
+
+
+
+Paid
+
+[Missing In Flutter SDK Docs Your Axis Layout Guide](https://fredgrott.substack.com/p/missing-in-flutter-sdk-docs-your)
+
+[Agnostic Clean Arch Usecase Implementation For Flutter Apps](https://open.substack.com/pub/fredgrott/p/agnostic-clean-arch-usecase-implementation?r=26egx&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+A better way to get the answers you seek is read my substack articles and become either a substack follower
+or subscriber at my substack:
+
+[My Flutter Substack](https://fredgrott.substack.com)
 
 
 
